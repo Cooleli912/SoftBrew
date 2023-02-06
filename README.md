@@ -1,6 +1,10 @@
 # SoftBrew
 A hacking source for the Nintendo Switch.
 
+# Before Starting
+If anything on this Github page bricks your console, I am not responsible, Nintendo can probably recover your switch as long as you're not suspicous.
+As of writing this, no activity has really happened yet, but I might actually be able to do something soon enough.
+
 # About the exploit
 The Browser in the Switch can run Javascript, HTML, and CSS.
 This exploit does not require an SD Card but is reccomended in case of an exploit that allows running code.
