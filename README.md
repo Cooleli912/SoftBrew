@@ -1,3 +1,8 @@
+# This Project Is On Hold!
+I don't have much experience in exploits, and I haven't made much progress, so I'm putting this On Hold, this project is being temporarily replaced by SwitchHub.
+SwitchHub: https://github.com/Cooleli912/SwitchHub
+
+
 # SoftBrew
 A hacking source for the Nintendo Switch.
 
